@@ -113,7 +113,7 @@ public class AutomaticIntegrationWithoutRefactoring {
 		alignmentsFiles.add("Input/conference-sigkdd.rdf");
 		alignmentsFiles.add("Input/confOf-edas.rdf");
 		alignmentsFiles.add("Input/confOf-ekaw.rdf");
-	    alignmentsFiles.add("Input/confOf-iasted.rdf");
+	        alignmentsFiles.add("Input/confOf-iasted.rdf");
 		alignmentsFiles.add("Input/confOf-sigkdd.rdf");
 		alignmentsFiles.add("Input/edas-ekaw.rdf");
 		alignmentsFiles.add("Input/edas-iasted.rdf");
